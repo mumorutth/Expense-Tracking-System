@@ -1,2 +1,2 @@
 # Expense-Tracking-System
-Developing a website. An expense tracking system.
+Developing a website for learning purposes. An expense tracking system.
